@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="password">كلمة المرور</string>
+    <string name="forget_pass">هل نسيت كلمة المرور؟</string>
+    <string name="log_in">تسجيل الدخول</string>
+    <string name="Email">البريد الالكتروني</string>
+    <string name="Login_havent_account">ليس لدي حساب؟ <font color="#DB3448"><b>إنشاء حساب</b></font>
+    </string>
+    <string name="Login_have_account">لدي حساب؟ <font color="#DB3448"><b>تسجيل الدخول</b></font>
+    </string>
+</resources>
